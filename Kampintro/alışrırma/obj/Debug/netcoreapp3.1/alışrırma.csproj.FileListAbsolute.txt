@@ -1,0 +1,13 @@
+C:\Users\sedat\source\repos\Kampintro\alışrırma\bin\Debug\netcoreapp3.1\alışrırma.exe
+C:\Users\sedat\source\repos\Kampintro\alışrırma\bin\Debug\netcoreapp3.1\alışrırma.deps.json
+C:\Users\sedat\source\repos\Kampintro\alışrırma\bin\Debug\netcoreapp3.1\alışrırma.runtimeconfig.json
+C:\Users\sedat\source\repos\Kampintro\alışrırma\bin\Debug\netcoreapp3.1\alışrırma.runtimeconfig.dev.json
+C:\Users\sedat\source\repos\Kampintro\alışrırma\bin\Debug\netcoreapp3.1\alışrırma.dll
+C:\Users\sedat\source\repos\Kampintro\alışrırma\bin\Debug\netcoreapp3.1\alışrırma.pdb
+C:\Users\sedat\source\repos\Kampintro\alışrırma\obj\Debug\netcoreapp3.1\alışrırma.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\Kampintro\alışrırma\obj\Debug\netcoreapp3.1\alışrırma.AssemblyInfoInputs.cache
+C:\Users\sedat\source\repos\Kampintro\alışrırma\obj\Debug\netcoreapp3.1\alışrırma.AssemblyInfo.cs
+C:\Users\sedat\source\repos\Kampintro\alışrırma\obj\Debug\netcoreapp3.1\alışrırma.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\Kampintro\alışrırma\obj\Debug\netcoreapp3.1\alışrırma.dll
+C:\Users\sedat\source\repos\Kampintro\alışrırma\obj\Debug\netcoreapp3.1\alışrırma.pdb
+C:\Users\sedat\source\repos\Kampintro\alışrırma\obj\Debug\netcoreapp3.1\alışrırma.genruntimeconfig.cache
